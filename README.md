@@ -86,3 +86,7 @@ npm run dev
 
   - Special thanks to Adaa Jaipur and Marwadi University for hosting this challenge.
   - Grateful to my team for their dedication, creativity, and collaboration throughout this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
